@@ -17,7 +17,8 @@ public class JavaIntroEj01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        char caracter = '\u26a1';
+        System.out.println(caracter);
     }
     
 }
