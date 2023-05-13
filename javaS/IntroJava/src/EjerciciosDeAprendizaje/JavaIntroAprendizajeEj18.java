@@ -9,10 +9,13 @@ package EjerciciosDeAprendizaje;
  *
  * @author User
  */
-class math {
+public class JavaIntroAprendizajeEj18 {
 
-    static int random() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
     }
     
 }

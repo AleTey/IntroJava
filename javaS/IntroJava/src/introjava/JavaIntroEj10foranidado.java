@@ -3,16 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package EjerciciosDeAprendizaje;
+package introjava;
 
 /**
  *
  * @author User
  */
-class math {
+public class JavaIntroEj10foranidado {
 
-    static int random() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
     }
     
 }
