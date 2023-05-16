@@ -26,7 +26,7 @@ public class JavaIntroEj09 {
                 sum = sum + num;
                 
             }   
-        } while (num != 0 && cont <= 20);
+        } while (num != 0 && cont < 20);
         System.out.println("La suma de los numeros ingresados es" + sum);
     }
     
