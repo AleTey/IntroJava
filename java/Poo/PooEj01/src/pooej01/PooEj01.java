@@ -25,10 +25,10 @@ public class PooEj01 {
         
         if (rta.equalsIgnoreCase("s")) {
             lv.showBook(libro1);
-            rta = null;
+//            rta = null;
         }
-        System.out.println("Desea buscar un libro en especifico? S/N");
-        rta = sc.nextLine();
+//        System.out.println("Desea buscar un libro en especifico? S/N");
+//        rta = sc.nextLine();
         
 //        if (rta.equalsIgnoreCase("s")) {
 //            System.out.println("Buscar por:");

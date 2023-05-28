@@ -10,6 +10,8 @@ import java.util.Scanner;
 
 public class LibroService {
 
+//    Libro libro1 = new Libro();
+    
     public void cargarLibro(Libro libro) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese isbn del libro");
@@ -29,6 +31,10 @@ public class LibroService {
         System.out.println(libro.titulo);
         System.out.println(libro.paginas);
         System.out.println(libro.autor);
+    }
+    
+    public void showLibro() {
+        System.out.println("Libro1: " + libro1.toString());
     }
     
 //    public void busquedaIsbn (Libro isbn) {
