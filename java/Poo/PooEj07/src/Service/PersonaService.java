@@ -55,7 +55,7 @@ public class PersonaService {
                 peso = sc.nextDouble();
                 pesoValido = true;
             } catch (InputMismatchException e){
-                System.out.println("Ingrese un valor valido, recuerde que encaso de uso de decimales debe ingresar una coma y no un punto");
+                System.out.println("Ingrese un valor valido, recuerde que en caso de uso de decimales debe ingresar una coma y no un punto");
                 sc.nextLine();
             }
         }
